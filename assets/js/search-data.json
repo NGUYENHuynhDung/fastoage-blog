@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "An Example Markdown Post",
-            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . ACASAS2 . asdasdasdas .",
+            "title": "ASD213",
+            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . ACASAS2 . asdasdasdas NGUYEN Huynh Dung .",
             "url": "https://nguyenhuynhdung.github.io/fastoage-blog/markdown/2021/07/02/ABC2.html",
             "relUrl": "/markdown/2021/07/02/ABC2.html",
             "date": " • Jul 2, 2021"
@@ -13,8 +13,8 @@
   
     
         ,"post1": {
-            "title": "An Example Markdown Post",
-            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . ACASAS . asdasdasdas .",
+            "title": "ABC test",
+            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . ACASAS . asdasdasdas Huynh Dung .",
             "url": "https://nguyenhuynhdung.github.io/fastoage-blog/markdown/2021/07/01/ABC1.html",
             "relUrl": "/markdown/2021/07/01/ABC1.html",
             "date": " • Jul 1, 2021"
